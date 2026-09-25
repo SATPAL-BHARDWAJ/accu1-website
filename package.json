@@ -1,0 +1,16 @@
+{
+  "name": "accurate-weighing-site",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "python3 build.py && tailwindcss -i src/input.css -o assets/css/app.css --minify",
+    "dev": "tailwindcss -i src/input.css -o assets/css/app.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#f3f6f8"/>
+  <rect x="96" y="120" width="208" height="70" rx="12" fill="#0f2440"/>
+  <rect x="116" y="138" width="120" height="34" rx="6" fill="#0d3534"/>
+  <text x="228" y="163" text-anchor="end" font-family="Manrope, Arial, sans-serif" font-size="22" font-weight="800" fill="#34a9a3">0.000</text>
+  <circle cx="262" cy="148" r="6" fill="#f59e0b"/><circle cx="282" cy="148" r="6" fill="#6fc8c2"/>
+  <circle cx="262" cy="166" r="6" fill="#6fc8c2"/><circle cx="282" cy="166" r="6" fill="#6fc8c2"/>
+  <rect x="190" y="190" width="20" height="60" fill="#3d4e60"/>
+  <rect x="60" y="250" width="280" height="26" rx="8" fill="#a8e0dc"/>
+  <rect x="72" y="276" width="256" height="18" rx="6" fill="#168c87"/>
+  <rect x="88" y="294" width="28" height="12" rx="3" fill="#0f2440"/><rect x="284" y="294" width="28" height="12" rx="3" fill="#0f2440"/>
+  <text x="200" y="350" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#3d4e60">Photo coming soon</text>
+</svg>
